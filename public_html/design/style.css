@@ -1,0 +1,17 @@
+body{
+    background-color: #292F33;
+}
+div{color: #F0F0F0;}
+.col-1{width:25%}
+.col-2{width:50%}
+.col-3{width:75%}
+.col-4{width:100%}
+[class*="col-"] {
+    float: left;
+    padding: 25px;
+}
+.head{background-color: red}
+.main_content{ background-color: white}
+* {
+    box-sizing: border-box;
+}
